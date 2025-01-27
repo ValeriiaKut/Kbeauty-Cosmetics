@@ -1,0 +1,31 @@
+[
+    {
+      "key": "all",
+      "name": "Wszystko"
+    },
+    {
+      "key": "kremy",
+      "name": "Kremy"
+    },
+    {
+      "key": "serum",
+      "name": "Serum"
+    },
+    {
+      "key": "toniki",
+      "name": "Toniki"
+    },
+    {
+        "key": "masks",
+        "name": "Maseczki"
+    },
+    {
+        "key": "cleaner",
+        "name": "Demakijaż"
+    },
+    {
+        "key": "gels",
+        "name": "Oczyszczanie"
+    }
+  ]
+  

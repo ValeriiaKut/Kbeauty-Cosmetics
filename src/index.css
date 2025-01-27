@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #FFF3F5; /* Зміна кольору фону */
+    color: #222;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    justify-content: center; /* Вирівнювання по горизонталі */
+    align-items: center;   /* Вирівнювання по вертикалі */
+    min-height: 100vh;     /* Висота 100% вікна */
+    margin: 0;             /* Вилучення додаткових відступів */
+}
+
+.wrapper {
+    width: 1600px;
+    margin: 0;
+    background: white; /* Фон для контенту */
+    border-radius: 20px; /* Заокруглені кути */
+    position: relative; /* Щоб створити окремий шар для тіні */
+    overflow: hidden; 
+    -webkit-box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+-moz-box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+}
+
+header {
+    position: relative;
+}
+
+header .logo {
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center; 
+    position: relative; /* Встановлюємо відносне позиціонування */
+    top: 20px;
+    left: 20px;
+}
+
+header ul.nav {
+    float: right;
+    list-style: none;
+    margin-left: -60px;
+    padding: 0;
+    font-size: 25px;
+    position: relative; /* Встановлюємо відносне позиціонування */
+    top: 20px;
+    right: 20px;
+}
+
+header ul.nav li {
+    display: inline;
+    margin-left: 50px;
+    cursor: pointer;
+    transition: opacity 500ms ease;
+
+}
+
+header ul.nav li:hover {
+    opacity: 0.5;
+} 
+
+header .shop-cart-button {
+    float: right;
+    cursor: pointer;
+    transition: color, transition 500ms ease;
+    font-size: 25px;
+    position: relative; /* Встановлюємо відносне позиціонування */
+    top: 20px;
+    right: 100px;
+}
+
+header .shop-cart-button:hover,
+header .shop-cart-button.active {
+    color: #dc3d3d;
+    transform: scale(1.5);
+
+}
+
+header .shop-cart {
+    position: absolute;
+    top: 83px;
+    right: 100px;
+    width: 600px;
+    background: #f8f3f3;
+    -webkit-box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+    -moz-box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+    box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+    z-index: 1000;
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+header .shop-cart .empty h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+header .shop-cart .item {
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+header .shop-cart .item img {
+    width: 90px;
+    float: left;
+    margin-right: 20px;
+}
+
+header .shop-cart .item h2 {
+    font-size: 15px;
+    margin-bottom: 10px;
+
+}
+
+header .shop-cart .item p {
+    color: #797979;
+    font-weight: 600;
+}
+
+header .shop-cart .item .delete-icon {
+    float: right;
+    position: relative;
+    top: -10px;
+    cursor: pointer;
+    transition: color, transition 500ms ease;
+}
+
+header .shop-cart .item .delete-icon:hover {
+    color: #dc3d3d;
+    transform: scale(1.5);
+}
+
+header .shop-cart .summa {
+    float: right;
+    width: 100%;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+header .presentation {
+    background: url('./img/1.jpg');
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    background-position:center;
+    background-blend-mode: multiply;
+    background-color: #bcbcbc;
+    margin: 50px 0; 
+    position: relative;
+}
+
+.categories div {
+    display: inline;
+    background: #d69b9b;
+    border-radius: 50px;
+    padding: 10px 20px;
+    margin-bottom: 25px;
+    margin-right: 15px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: all 500ms ease;
+    position: relative; /* Додаємо відносне позиціонування */
+    top: -25px;
+    left: 400px;
+
+}
+
+.categories div:hover {
+    border-color: rgb(201, 93, 93);
+    transform: scale(1.50);
+}
+
+main {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+main .item {
+    width: 20%;
+    margin-bottom: 30px;
+    margin-right: 80px;
+    background-color:#FFF3F5;
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 10px ;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+    -moz-box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+    box-shadow: 0px 0px 18px 2px rgba(176, 76, 76, 0.71);
+    left: 40px;
+    right: 20px;
+
+}
+
+main .item img {
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+    transition: transform 500ms ease;
+
+}
+
+main .item img:hover {
+    transform: scale(1.05);
+}
+
+main h2, main p, main b {
+    margin: 10px 20px;
+    color: #333,
+}
+
+main .add-to-card {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background: #222;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    font-weight: 700;
+    transition: transform 500ms ease;
+}
+
+main .add-to-card:hover {
+    transform: scale(1.5) translateY(-5px);
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+}

@@ -1,0 +1,244 @@
+[
+    {
+      "id": 1,
+      "title": "COSRX - Advanced Snail 92 All in One Cream - Wszechstronny Krem ze Śluzem Ślimaka - 100g",
+      "img": "11.webp",
+      "desc": "Wielozadaniowy krem do twarzy",
+      "category": "kremy",
+      "price": "60,00 zł"
+    },
+    {
+      "id": 2,
+      "title": "Beauty of Joseon - Dynasty Cream - Łagodny Krem Nawilżający do Twarzy - 50ml",
+      "img": "2.webp",
+      "desc": "Nawilżający krem o lekkiej formule",
+      "category": "kremy",
+      "price": "79,00 zł"
+    },
+    {
+      "id": 3,
+      "title": "Round Lab - Birch Juice Moisturizing Sun Cream SPF50+ PA++++ - Krem Przeciwsłoneczny - 50ml",
+      "img": "3.webp",
+      "desc": "Nawilżający krem z filtrem przeciwsłonecznym",
+      "category": "kremy",
+      "price": "98,00 zł"
+    },
+    {
+      "id": 4,
+      "title": "SKIN1004 - Madagascar Centella Hyalu-Cica Water-Fit Sun Serum SPF50+ PA++++ - Nawilżający Krem Przeciwsłoneczny - 50ml",
+      "img": "4.webp",
+      "desc": "Krem przeciwsłoneczny z wąkrotą azjatycką i kwasem hialuronowym",
+      "category": "kremy",
+      "price": "128,00 zł"
+    },
+    {
+      "id": 5,
+      "title": "Purito Seoul - Mighty Bamboo Panthenol Cream - Łagodzący krem z Pantenolem - 100ml",
+      "img": "5.webp",
+      "desc": "Krem przeciwsLekki krem do twarzy ze składnikami łagodzącymi",
+      "category": "kremy",
+      "price": "125,00 zł"
+    },
+    {
+      "id": 6,
+      "title": "Axis-y - Dark Spot Correcting Glow Serum - Rozjaśniające Serum Redukujące Przebarwienia - 50ml",
+      "img": "6.webp",
+      "desc": "Serum przeciw przebarwieniom z niacynamidem i glutationem",
+      "category": "serum",
+      "price": "95,00 zł"
+    },
+    {
+      "id": 7,
+      "title": "SKIN1004 - Madagascar Centella Probio-Cica Intensive Ampoule - Wzmacniające Serum do Twarzy - 50ml",
+      "img": "8.webp",
+      "desc": "Serum z ekstraktem z wąkroty azjatyckiej",
+      "category": "serum",
+      "price": "95,00 zł"
+    },
+    {
+      "id": 8,
+      "title": "Beauty of Joseon - Ginseng Revive Serum - Regenerujące Serum do Twarzy z Żeń-Szeniem - 30ml",
+      "img": "7.webp",
+      "desc": "Rewitalizujące serum z żeń-szeniem i śluzem ślimaka",
+      "category": "serum",
+      "price": "56,00 zł"
+    },
+    {
+      "id": 9,
+      "title": "Mixsoon - Bean Essence - Serum z Fermentem z Soi - 50ml",
+      "img": "9.webp",
+      "desc": "Serum złuszczające poprawiające koloryt skóry",
+      "category": "serum",
+      "price": "105,00 zł"
+    },
+    {
+      "id": 10,
+      "title": "Anua - Peach 70% Niacinamide Serum - Serum Rozjaśniające z 70% Ekstraktem z Brzoskwini - 30ml",
+      "img": "10.webp",
+      "desc": "Serum z 5% niacynamidem",
+      "category": "serum",
+      "price": "89,00 zł"
+    },
+    {
+      "id": 11,
+      "title": "Beauty of Joseon - Ginseng Essence Water - Esencjonalna Woda z Żeń-Szeniem - 150ml",
+      "img": "111.webp",
+      "desc": "Esencjonalny tonik do twarzy",
+      "category": "toniki",
+      "price": "62,00 zł"
+    },
+    {
+      "id": 12,
+      "title": "COSRX - Full Fit Propolis Synergy Toner - Łagodzący Tonik z Propolisem - 150ml",
+      "img": "12.webp",
+      "desc": "Łagodzący tonik z propolisem",
+      "category": "toniki",
+      "price": "59,00 zł"
+    },
+    {
+      "id": 13,
+      "title": "Pyunkang Yul - Essence Toner - Tonik Nawilżający - 100ml",
+      "img": "13.webp",
+      "desc": "Tonik nawilżający",
+      "category": "toniki",
+      "price": "55,00 zł"
+    },
+    {
+      "id": 14,
+      "title": "Numbuzin - No.3 - Super Glowing Essence Toner - Rozświetlający Tonik do Twarzy - 200ml",
+      "img": "14.webp",
+      "desc": "Tonik rozświetlający z fermentami",
+      "category": "toniki",
+      "price": "76,00 zł"
+    },
+    {
+      "id": 15,
+      "title": "Haruharu Wonder - Black Rice Hyaluronic Toner - Nawilżający Tonik do Twarzy z Fermentem Ryżowym - 150ml",
+      "img": "15.webp",
+      "desc": "Tonik z ekstraktem z ryżu",
+      "category": "toniki",
+      "price": "49,00 zł"
+    },
+    {
+      "id": 16,
+      "title": "Biodance - Bio-Collagen Real Deep Mask - Ujędrniająca Maska Kolagenowa do Twarzy - 1szt/34g",
+      "img": "16.webp",
+      "desc": "Maseczka w płachcie na noc",
+      "category": "masks",
+      "price": "19,00 zł"
+    },
+    {
+      "id": 17,
+      "title": "Beauty of Joseon - Red Bean Refreshing Pore Mask - Maska Glinkowa - 140ml",
+      "img": "17.webp",
+      "desc": "Oczyszczająca maska glinkowa",
+      "category": "masks",
+      "price": "69,00 zł"
+    },
+    {
+      "id": 18,
+      "title": "SKIN1004 - Madagascar Centella Watergel Sheet Ampoule Mask - Hydrożelowa Maska w Płachcie do Twarzy - 25ml",
+      "img": "18.webp",
+      "desc": "Nawilżająca maska w płachcie z ekstraktem z wąkroty azjatyckiej",
+      "category": "masks",
+      "price": "14,00 zł"
+    },
+    {
+      "id": 19,
+      "title": "Abib - Rice Probiotics Overnight Mask Barrier Jelly - Maska na Noc z Probiotykami Ryżowymi - 80ml",
+      "img": "19.webp",
+      "desc": "Żelowa maska do twarzy na noc z ekstraktem z otrą ryżowych",
+      "category": "masks",
+      "price": "89,00 zł"
+    },
+    {
+      "id": 20,
+      "title": "VT Cosmetics - Reedle Shot 100 2Step Mask - Ujędrniająca Maska do Twarzy w Płachcie - 1,5g+25g",
+      "img": "20.webp",
+      "desc": "Dwuetapowa maska z niacynamidem i adenozyną",
+      "category": "masks",
+      "price": "24,00 zł"
+    },
+    {
+      "id": 21,
+      "title": "Beauty of Joseon - Ginseng Cleansing Oil - Oczyszczający Olejek do Demakijażu z Żeń-Szeniem - 210ml",
+      "img": "21.webp",
+      "desc": "Głęboko oczyszczający olejek usuwający zanieczyszczenia",
+      "category": "cleaner",
+      "price": "76,00 zł"
+    },
+    {
+      "id": 22,
+      "title": "Anua - Heartleaf Pore Control Cleansing Oil - Olejek do Oczyszczania Twarzy - 200ml",
+      "img": "22.webp",
+      "desc": "Niekomedogenny olejek do oczyszczania skóry twarzy",
+      "category": "cleaner",
+      "price": "94,00 zł"
+    },
+    {
+      "id": 23,
+      "title": "Beauty of Joseon - Radiance Cleansing Balm - Oczyszczający Balsam do Demakijażu - 100ml",
+      "img": "23.webp",
+      "desc": "Balsam rozpuszczający makijaż i zanieczyszczenia",
+      "category": "cleaner",
+      "price": "64,00 zł"
+    },
+    {
+      "id": 24,
+      "title": "Haruharu Wonder - Black Rice Moisture Deep Cleansing Oil - Głęboko Oczyszczający Olejek do Demakijażu - 150ml",
+      "img": "24.webp",
+      "desc": "Olejek do demakijażu z olejem z otrębów ryżowych",
+      "category": "cleaner",
+      "price": "74,00 zł"
+    },
+    {
+      "id": 25,
+      "title": "Ma:nyo - Pure Cleansing Oil - Oczyszczający Olejek do Twarzy - 200ml",
+      "img": "25.webp",
+      "desc": "Olejek do demakijażu i oczyszczania twarzy",
+      "category": "cleaner",
+      "price": "114,00 zł"
+    },
+    {
+      "id": 26,
+      "title": "COSRX - Low pH Good Morning Gel Cleanser - Łagodny Żel do Mycia Twarzy - 150ml",
+      "img": "26.webp",
+      "desc": "Żel do mycia twarzy z olejkiem z drzewa herbacianego",
+      "category": "gels",
+      "price": "34,00 zł"
+    },
+    {
+      "id": 27,
+      "title": "COSRX - Salicylic Acid Daily Gentle Cleanser - Pianka Myjąca do Twarzy z Kwasem Salicylowym - 150ml",
+      "img": "27.webp",
+      "desc": "Pianka myjąca do twarzy z kwasem salicylowym",
+      "category": "gels",
+      "price": "33,00 zł"
+    },
+    {
+      "id": 28,
+      "title": "Beauty of Joseon - Green Plum Refreshing Cleanser - Odświeżający Żel do Mycia Twarzy - 100ml",
+      "img": "28.webp",
+      "desc": "Łagodny żel oczyszczający do twarzy",
+      "category": "gels",
+      "price": "43,00 zł"
+    },
+    {
+      "id": 29,
+      "title": "Round Lab - Birch Juice Moisturizing Cleanser - Nawilżający Żel do Mycia Twarzy z Soku z Brzozy - 150ml",
+      "img": "29.webp",
+      "desc": "Oczyszczający żel do twarzy",
+      "category": "gels",
+      "price": "74,00 zł"
+    },
+    {
+      "id": 30,
+      "title": "SKIN1004 - Madagascar Centella Ampoule Foam - Pianka do Mycia Twarzy z Wąkrotą Azjatycką - 125ml",
+      "img": "30.webp",
+      "desc": "Łagodząca pianka oczyszczająca",
+      "category": "gels",
+      "price": "86,00 zł"
+    }
+
+  ]
+  
